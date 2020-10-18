@@ -1,4 +1,6 @@
-# CREDIT CARD FRAUD DETECTION
+# Project : CREDIT CARD FRAUD DETECTION 
+
+![](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/images/xenonstack-credit-card-fraud-detection.png)
 
 ## What is Fraud?
 
@@ -59,9 +61,9 @@ Read more about SMOTE [link-1](https://machinelearningmastery.com/smote-oversamp
 
 ## Implementation
 
-Dataset:  
+Dataset:  [creditcard.csv](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/csv%20files/creditcard.csv)
 
-Code:  
+Code:  [credit-card-fraud-detection.R](https://github.com/shalakasaraogi/credit-card-fraud-detection/blob/main/Credit-card-fraud-detection.R)
 
 Lab Environment: RStudio
 
