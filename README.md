@@ -41,7 +41,7 @@ Here we have used Machine Learning Techniques.
 
 **Sampling Methods to solve this Unbalanced Data problem**
 
-**Random Over-SAmpling (ROS)** -
+**Random Over-Sampling (ROS)** -
 
 In this technique we over sample the minority class which is our fraud cases, so we copy the cases that are already present in are fradulent cases, so me copy the same cases multiple times till we reach the threshold value that we want in our dataset. The problem with this technique is that it is done by creating the duplicating lots fraud cases that are already present in our dataset that means we will be training our model with lots of duplicate values which won't explain the varriance in the dataset.
 
